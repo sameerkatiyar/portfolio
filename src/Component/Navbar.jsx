@@ -33,7 +33,7 @@ const Navbar = () => {
 
     return (
         <>
-            <div className='max-w-screen-2xl container mx-auto px-4 h-16 md:px-20 shadow-md fixed top-0 left-0 right-0 z-20 bg-white'>
+            <div className='max-w-screen-2xl container mx-auto px-4 h-16 md:px-20 shadow-md fixed top-0 left-0 right-0 z-50 bg-white'>
                 <div className='flex justify-between items-center h-16'>
                     <div className='flex space-x-2'>
                         <img src={pic} className='h-12 w-12 rounded-full' alt="" />
